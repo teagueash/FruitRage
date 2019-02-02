@@ -1,3 +1,3 @@
 # FruitRage
 
-My implementation of the minimax with alpha-beta pruning algorithm
+My implementation of the minimax algorithm with alpha-beta pruning.
